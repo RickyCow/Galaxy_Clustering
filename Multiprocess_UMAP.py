@@ -108,3 +108,5 @@ def main():
 
 	print("All UMAP embeddings generated.")
 	logging.info("All UMAP embeddings completed.")
+
+main()
